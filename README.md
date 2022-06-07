@@ -2,7 +2,7 @@
 Estudos sobre OpenCV2
 
 # Desenho de Atomo
-É usado Ellipse para desenhar um Atomo e salva-lo em .AVI<br />
+É usado Ellipse para desenhar um Atomo e anima-lo após isso salva em .AVI<br />
 ![image](https://user-images.githubusercontent.com/64814564/172475720-e8ee5b0a-00a9-436f-9a91-23da00cb378e.png)
 
 # Formas e Grids
